@@ -1,6 +1,6 @@
 // Lab 009	: Heapsort
-// Name : Leegeonmin
-// Student ID : 20171660
+// Name :
+// Student ID :
 
 import java.util.*;
 

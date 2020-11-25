@@ -1,6 +1,6 @@
 // Lab 007	: Graph
-// Name : Leegeonmin
-// Student ID : 20171660
+// Name :
+// Student ID :
 
 import java.util.*;
 

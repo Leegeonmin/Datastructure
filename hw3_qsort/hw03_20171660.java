@@ -1,6 +1,6 @@
 // HW 203, QuickSort
-// Name : Leegeonmin
-// Student ID : 20171660
+// Name :
+// Student ID :
 
 import java.util.*;
 
@@ -109,6 +109,7 @@ class QuickSort {
                         tmp = arr[bpos];
                         arr[bpos] = pivot;
                         arr[s] = tmp;
+
                         break;
                     }
                 } else if (pivot >= arr[apos]) {
@@ -121,7 +122,7 @@ class QuickSort {
                 }
         }
         QSort(s, bpos - 1);
-        QSort(apos , e);
+        QSort(apos, e);
     }
 
 }

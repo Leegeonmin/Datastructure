@@ -1,15 +1,10 @@
 import java.util.*;
 
-// Name : Leegeonmin
-// Student ID : 20171660
+// Name :
+// Student ID :
 
 
 class Chain <T> {
-
-
-
-
-
     class ChainNode <U> {
         private U data;	// storage for data
         private ChainNode<U> link;	// link to the next node
@@ -33,7 +28,6 @@ class Chain <T> {
     private ChainNode<T> first; // reference to the fist node
 
     Chain() {
-
         first = null;
     }
 
